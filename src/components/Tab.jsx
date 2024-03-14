@@ -2,9 +2,9 @@ import React from 'react'
 
 const Tab = () => {
   return (
-    <div>
-      
-    </div>
+    <h4>
+      Tab
+    </h4>
   )
 }
 
